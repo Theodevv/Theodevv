@@ -18,31 +18,7 @@
 - ⚡ Je touche un peu à tout en vrai  
   
 
-<br/>  
-
-
-## Skill 
- 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>   
 
 
 ## Retrouve moi ici !  
